@@ -5,7 +5,7 @@ I'm a student at Seattle Central College pursuing an **Associate's of Science (D
 My aim is to leverage these analytical skills in challenging roles requiring collaboration, computational proficiency, and deep quantitative understanding.
 
 *   🌱 **Currently Learning:** Foundational Calculus & Statistics, Python (Matplotlib, Pandas, NumPy).
-*   🔍 **Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy and operations, discrete math, and collaborative problem-solving.
+*   🔍 **Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy, discrete math, and collaborative problem-solving.
 *   ⚙️ **Tools:** Python, Go, SQL, JavaScript + Astro, CSS + Tailwind, HTML5, Git, and interesting API's.
 
 💬 Open to discussing: quantitative analysis, market research, data modelling with Python, potential collaborations, or the business applications of quantitative techniques.
