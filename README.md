@@ -1,14 +1,13 @@
 👋 Hello or Bonjour !
 
-I'm a student at Seattle Central College pursuing an Associate's of Science (DTA), preparing to transfer to university in 2026. 
-My academic work centers on building a strong foundation in **mathematics, computer science fundamentals, and quantitative reasoning**.
+I'm a student at Seattle Central College pursuing an **Associate's of Science (DTA)**, preparing to transfer to university in 2026. My academic work centers on building a strong foundation in **mathematics, computer science fundamentals, and quantitative reasoning**.
 
-My aim is to leverage these skills in challenging analytical roles requiring deep quantitative understanding and computational proficiency.
+My aim is to leverage these analytical skills in challenging roles requiring collaboration, computational proficiency, and deep quantitative understanding.
 
-*   🌱 **Learning:** Calculus, Linear Algebra, Statistics, Python (for data analysis - NumPy, Pandas), SQL basics, core CS concepts.
-*   🔍 **Interests:** Applying quantitative methods to complex problems, data analysis & modeling, financial market dynamics, problem-solving through code.
-*   ⚙️ **Tools:** Python, SQL, Git – viewing programming as a key tool for analysis and modeling.
+*   🌱 **Learning:** Foundational Calculus & Statistics, Python (for data analysis - Matplotlib, Pandas, NumPy).
+*   🔍 **Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy and operations, and collaborative problem-solving.
+*   ⚙️ **Tools:** Python, Go, SQL, JavaScript + Astro, CSS + Tailwind, HTML5, Git, and interesting API's.
 
-💬 Open to discussing quantitative analysis, data-driven problem solving, Python for data science, the intersection of math and computation, **potential collaborations**, or the **business applications of quantitative techniques**.
+💬 Open to discussing: quantitative analysis, market research, data modelling with Python, potential collaborations, or the business applications of quantitative techniques.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nick-bischoff/).
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nick-bischoff/)**.
