@@ -4,10 +4,10 @@ I'm a student at Seattle Central College pursuing an **Associate's of Science**,
 
 My aim is to leverage these analytical skills in challenging roles requiring collaboration, computational proficiency, and deep quantitative understanding.
 
-*   🌱 **Learning:** Foundational Calculus & Statistics, Python (Matplotlib, Pandas, NumPy).
-*   🔍 **Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy, and collaborative problem-solving.
-*   ⚙️ **Tools:** Python, Go, SQL, JavaScript/HTML/CSS, Git, and interesting API's.
+**Learning:** Foundational Calculus & Statistics, Python (Matplotlib, Pandas, NumPy).
+**Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy, and collaborative problem-solving.
+**Tools:** Python, Go, SQL, JavaScript/HTML/CSS, Git, and interesting API's.
 
-💬 Open to discussing: quantitative analysis, market research, data modelling with Python, potential collaborations, or the business applications of quantitative techniques.
+💬 Open to discussing: data modelling, market research, potential collaborations, or the business applications of quantitative techniques.
 
 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nick-bischoff/)**!
