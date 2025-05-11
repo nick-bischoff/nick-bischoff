@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm a student at Seattle Central College pursuing an **Associate's of Science**, preparing to transfer to university in 2026. My academic focus is building a strong foundation in **mathematics, science, technology, and quantitative reasoning**.
+I'm a student at Seattle Central College pursuing an **Associate's of Science**, preparing to transfer to university in 2026. My academic focus is on building a strong foundation in **mathematics, science, technology, and quantitative reasoning**.
 
 
 * **🌱 Learning:** AstroJS & Python (Matplotlib, Pandas, NumPy).
