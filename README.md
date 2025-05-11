@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm a student at Seattle Central College pursuing an **Associate's of Science**, preparing to transfer to university in 2026. My academic work centers on building a strong foundation in **mathematics, science and technology fundamentals, and quantitative reasoning**.
+I'm a student at Seattle Central College pursuing an **Associate's of Science**, preparing to transfer to university in 2026. My academic work currently centers on building a strong foundation in **mathematics, science, technology, and quantitative reasoning**.
 
 * **Currently Learning:** AstroJS & Python (Matplotlib, Pandas, NumPy).
 * **Interests:** Applying quantitative methods, data analysis & modeling, financial market dynamics, business strategy, and collaborative problem-solving.
