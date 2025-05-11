@@ -8,6 +8,6 @@ I'm a student at Seattle Central College pursuing an **Associate's of Science**,
 * **⚙️ Tools:** Python, SQL, JavaScript/HTML/CSS, Vercel, Git, and interesting API's.
  
 
-💬 Open to discussing: data modelling, market research, business applications of quantitative techniques, or potential collaborations!
+💬 Open to discussing: data modelling, market research, innovative ideas, or potential collaborations!
 
 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nick-bischoff/)**!
