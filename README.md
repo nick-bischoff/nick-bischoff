@@ -2,7 +2,7 @@
 
 * **🛠️ Languages & Frameworks:**
   * Python (NumPy, Pandas, Matplotlib)
-  * JavaScript (React, Node.js, AstroJS)
+  * JavaScript/TypeScript (React, Node.js, AstroJS)
   * HTML5, CSS3, TailwindCSS
 * **⚙️ Tools & Data:**
   * Git, Docker, Shell Scripting
