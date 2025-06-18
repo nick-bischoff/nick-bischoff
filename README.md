@@ -6,7 +6,7 @@
   * HTML5, CSS3, TailwindCSS
 * **⚙️ Dev Tools & Data:**
   * Git, Docker, Shell Scripting
-  * SQL, PostgreSQL, REST APIs
+  * SQL, MongoDB, PostgreSQL, REST APIs
   * IaaS & PaaS (Cloudflare, Vercel, Fly.io, Etc.)
 
 💬 Open to collaboration!
