@@ -1,4 +1,4 @@
-👋 Hi, I’m Nick — developer and student.
+👋 Hi, I’m Nick!
 
 * **🛠️ Languages & Frameworks:**
   * Python (NumPy, Pandas, Matplotlib)
