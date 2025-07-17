@@ -1,7 +1,7 @@
 👋 Hi, I’m Nick!
 
 * **🛠️ Languages & Frameworks:**
-  * Python (NumPy, Pandas, Matplotlib, yfinance)
+  * Python (NumPy, Matplotlib, yfinance)
   * JavaScript/TypeScript (React, Node.js, AstroJS)
   * HTML5, CSS3, TailwindCSS
 * **⚙️ Dev Tools & Data:**
