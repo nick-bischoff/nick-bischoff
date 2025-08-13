@@ -6,7 +6,7 @@
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-website.example" target="https://nickbischoff.com">
+  <a href="https://www.nickbischoff.com" target="https://www.nickbischoff.com">
     <img alt="Website"
       src="https://img.shields.io/badge/Website-E5E7EB?style=for-the-badge&logo=chainlink&logoColor=000000&labelColor=FFFFFF" />
   </a>
